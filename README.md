@@ -2,7 +2,7 @@
 
 This is a Java program that calculates student average marks and assigns grades based on the input marks.
 
-## Features
+##🔍 Features
 
 - Accepts student marks
 - Calculates average marks
